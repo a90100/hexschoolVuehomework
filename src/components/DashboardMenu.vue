@@ -6,11 +6,11 @@ nav.navbar.navbar-expand-sm.navbar-dark.bg-dark
   #dashboardMenu.collapse.navbar-collapse
     ul.navbar-nav
       li.nav-item
-        a.text-white.nav-link(href='/#/dashboard/dashboardproducts') 產品列表
+        a.text-white.nav-link(href='hexschoolVuehomework-dist/#/dashboard/dashboardproducts') 產品列表
       li.nav-item
-        a.text-white.nav-link(href='/#/dashboard/dashboardorders') 訂單列表
+        a.text-white.nav-link(href='hexschoolVuehomework-dist/#/dashboard/dashboardorders') 訂單列表
       li.nav-item
-        a.text-white.nav-link(href='/#/dashboard/dashboardcoupons') 優惠券
+        a.text-white.nav-link(href='hexschoolVuehomework-dist/#/dashboard/dashboardcoupons') 優惠券
       li.nav-item
         a.text-white.nav-link(href='#' @click.prevent='signout') 
           span

@@ -2,15 +2,15 @@
 .sidebar.col-xs-2
   ul.list
     li
-      a(href="/#/dashboard/dashboardproducts")
+      a(href="hexschoolVuehomework-dist/#/dashboard/dashboardproducts")
         i(class="fas fa-box-open")
         | 產品列表
     li
-      a(href="/#/dashboard/dashboardorders")
+      a(href="hexschoolVuehomework-dist/#/dashboard/dashboardorders")
         i(class="fas fa-list-ul")
         | 訂單列表
     li
-      a(href="/#/dashboard/dashboardcoupons")
+      a(href="hexschoolVuehomework-dist/#/dashboard/dashboardcoupons")
         i(class="fas fa-ticket-alt")
         | 優惠券
 </template>
