@@ -5,6 +5,7 @@ https://a90100.github.io/hexschoolVuehomework-dist/#/
 
 ## 聲明
 本作品為 六角學院 Vue出一個電商 課程之最終作業
+
 本作品之圖片，文字內容僅做練習使用，不做任何商業用途
 
 ## 練習技術
