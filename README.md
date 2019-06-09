@@ -1,29 +1,20 @@
-# vue-homework2
+# 好置家居
 
-## Project setup
-```
-npm install
-```
+## Demo
+https://a90100.github.io/hexschoolVuehomework-dist/#/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 聲明
+本作品之圖片，文字內容僅做練習使用，不做任何商業用途
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 練習技術
+Vue CLI3
+Vue components
+Vue router
+Vue Vuex
+Vue 套件 - veeValidate，vue-loading-overlay，vue-axios
+Bootstrap 4並進行客製化
+手刻Sass/Pug
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 作品功能
+前台: 產品列表，購物車清單，優惠券套用，訂單，結帳
+後台: 產品管理，訂單管理，優惠券管理
